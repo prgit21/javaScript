@@ -1,0 +1,30 @@
+//toString()
+//join()
+
+//pop and push()
+
+//shift and  unshift()
+
+//length appends new element why?
+
+//concat()
+
+//splice -> addds new item to array 
+
+//slice -> slice out piece 
+
+//.sort
+
+//reverse
+
+//numeric sort -> points.sort(function(a,b),{return(a-b)})
+ 
+
+//[... Set(arr)] -> filters duplicates in array
+
+
+
+//flattening??
+
+
+//redo 19

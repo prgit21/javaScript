@@ -1,0 +1,49 @@
+var strinG= 'oenfefi'
+var str2= "daadae"
+
+console.log(str2.charAt(3))
+
+
+//20 String methods
+
+//charAt -> pos of character in string
+
+//charCodeAt -> ret unicode value of string
+
+
+//str.concat -> concat
+
+//endsWith
+
+//String.fromCharCode()
+
+//includes()
+
+//indexOF()
+
+//lastIndex()
+
+//match()
+
+//repeat()
+
+
+//(str.replace(,))>
+
+//.slice(2,4)
+//.search("end")
+//split(" ")
+
+//startsWith()
+
+//substr() vs substring()?????
+//toLowerCase()
+//toUpperCase()
+
+//trim()
+
+
+
+//.length
+
+//padStart
